@@ -11,4 +11,5 @@ print(Int8.max)
 print(Int64.min)
 var dogname="Brudo"
 print("\"",dogname,"\" is the best")
+print("Deepak dog's name is \(dogname)")
 print(dogname)
